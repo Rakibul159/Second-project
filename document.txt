@@ -1,0 +1,2 @@
+This is a GUI file.
+  I have some money.
